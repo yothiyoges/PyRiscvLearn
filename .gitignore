@@ -1,1 +1,3 @@
-./toolChain/*
+/toolChain/
+data_hex.txt
+example.o
